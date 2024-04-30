@@ -1,2 +1,2 @@
-# student-detials
+# student-details
 using solidity
