@@ -1,0 +1,2 @@
+# student-detials
+using solidity
